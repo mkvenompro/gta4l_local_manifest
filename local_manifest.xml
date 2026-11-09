@@ -54,4 +54,11 @@
       remote="github"
       revision="lineage-24.0" />
 
+  <!-- Dolby Atmos (Evolution X) -->
+  <project
+      path="hardware/dolby"
+      name="Evolution-X-Devices/hardware_dolby"
+      remote="github"
+      revision="cnb" />
+
 </manifest>
